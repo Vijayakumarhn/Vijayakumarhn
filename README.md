@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vijayakumarhn
-- 👀 I’m interested in HTML, CSS and Python
+- 👀 I’m interested in HTML, CSS, Python C and JavaScript
 - 🌱 I’m currently learning JavaScript for develop a dynamic website.
 
 <!---
